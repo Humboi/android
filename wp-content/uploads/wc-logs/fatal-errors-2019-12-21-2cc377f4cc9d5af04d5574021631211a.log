@@ -1,0 +1,264 @@
+2019-12-21T00:00:37+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:00:39+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:01:55+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:01:58+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:02:23+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:02:25+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:03:23+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:03:26+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:05:06+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:05:08+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:05:18+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:05:20+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:08:47+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:08:50+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:12:05+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:12:07+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:14:04+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:14:06+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:14:37+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:14:39+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:16:41+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:16:43+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:21:22+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
+2019-12-21T00:21:25+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Settings\Manager' not found in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php:94
+Stack trace:
+#0 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(298): Essential_Addons_Elementor\Classes\Bootstrap->render_global_html('')
+#1 C:\wamp64\www\Donkomi\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Donkomi\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(2605): do_action('wp_footer')
+#4 C:\wamp64\www\Donkomi\wordpress\wp-content\themes\ecommerce-market\footer.php(63): wp_footer()
+#5 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\D...')
+#6 C:\wamp64\www\Donkomi\wordpress\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\D...', true)
+#7 C:\wamp64\www\Donkomi\wordpress\wp-includes\general-template.php(84): lo in C:\wamp64\www\Donkomi\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Elements.php on line 94
+
